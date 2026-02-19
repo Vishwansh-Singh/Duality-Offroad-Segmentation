@@ -60,7 +60,7 @@ Our final submission includes a comprehensive performance dashboard:
 
 
 
-`![Performance Dashboard](final_performance_dashboard.png)`
+`![Performance Dashboard](dashboard.png)`
 
 
 
