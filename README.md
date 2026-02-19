@@ -10,7 +10,8 @@ Byte Force provides a robust semantic segmentation solution for Unmanned Ground 
 
 
 
-## # 📊 Performance Summary
+## # 📊 Performance Summary![final_performance_dashboard png](https://github.com/user-attachments/assets/f31dcbb1-a7d5-4681-b946-86b1ac91d411)
+
 
 * **Final Mean IoU:** 0.6788 (Peak at Epoch 21)
 
