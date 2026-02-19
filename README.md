@@ -29,7 +29,7 @@ Our final submission includes a comprehensive performance dashboard:
 * **Confusion Matrix:** Validates the model's success in minimizing false positives in the Landscape/DryGrass boundary.
 * **Loss Curves:** Demonstrate steady exponential decay, reaching stability at Epoch 18.
 
-`![Performance Dashboard](final_performance_dashboard.png.jpeg)`
+`![Performance Dashboard](dashboard.png)`
 
 ## # 📁 Repository Structure
 * `train_segmentation.py`: Full training pipeline for the SegFormer-B2 model.
