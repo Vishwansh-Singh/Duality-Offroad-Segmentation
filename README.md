@@ -103,3 +103,15 @@ To reproduce our results, follow these steps:
 ```bash
 
 pip install -r requirements.txt
+```
+
+### ## 2. Download Weights
+
+  Download the model.safetensors file from the Releases section on the right sidebar of this repository. Place the file directly in the root directory of the project.
+  
+### ## 3. Run Inference
+```bash
+  python test_segmentation.py
+```
+  
+
