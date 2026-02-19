@@ -45,9 +45,16 @@ Our final submission includes a comprehensive performance dashboard:
 * **Aditya Talreja** (24BCE10891)
 * **Akshay Saxena** (24BCE10443)
 
-## # 🔧 Installation & Usage
+# 🔧 Installation & Usage
 To reproduce our results, follow these steps:
 
-### ## 1. Install Dependencies
-```bash
+## 1. Install Dependencies
+Bash
 pip install -r requirements.txt
+## 2. Download Weights
+Download the model.safetensors file from the Releases section on the right sidebar of this repository. Place the file directly in the root directory of the project.
+
+## 3. Run Inference
+Bash
+python test_segmentation.py
+This script will load the weights, process the test dataset, and generate the competition-ready prediction masks along with the performance dashboard.
