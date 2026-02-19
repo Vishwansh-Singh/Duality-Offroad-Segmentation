@@ -1,6 +1,5 @@
 ## Byte Force: Precision Perception in Unstructured Terrains
 Offroad Autonomy Segmentation Challenge | GHR 2.0 Hackathon
-
 🚀 Overview
 Byte Force provides a robust semantic segmentation solution for Unmanned Ground Vehicles (UGVs) operating in complex desert environments. By transitioning from a standard baseline to a Transformer-based SegFormer-B2 architecture, we achieved a significant performance leap, reaching a final Mean IoU of 0.6788.
 
@@ -59,4 +58,17 @@ Aditya Talreja (24BCE10891)
 Akshay Saxena (24BCE10443)
 
 🔧 Installation & Usage
-To reproduce our results, first install the dependencies by running pip install -r requirements.txt. Once the environment is set up, download the model.safetensors from the Releases section and place it in the root directory. You can then execute python test_segmentation.py to generate the performance dashboard and the competition-ready prediction masks.
+To reproduce our results, follow these steps:
+
+Install Dependencies:
+
+Bash
+pip install -r requirements.txt
+Download Weights:
+Download model.safetensors from the Releases section and place it in the root directory.
+
+Run Inference:
+
+Bash
+python test_segmentation.py
+This will generate the performance dashboard and the competition-ready prediction masks.
