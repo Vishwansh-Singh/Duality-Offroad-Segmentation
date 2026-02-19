@@ -113,5 +113,6 @@ pip install -r requirements.txt
 ```bash
   python test_segmentation.py
 ```
+This script will load the weights, process the test dataset, and generate the competition-ready prediction masks along with the performance dashboard.
   
 
