@@ -53,7 +53,7 @@ Our project reflects a multi-iterative approach to scene understanding:
 
 ## # 📈 Visual Analysis
 
-Our final submission includes a comprehensive performance dashboard:
+Our final submission includes a comprehensive performance dashboard:-
 
 * **Confusion Matrix:** Validates the model's success in minimizing false positives in the Landscape/DryGrass boundary.
 
