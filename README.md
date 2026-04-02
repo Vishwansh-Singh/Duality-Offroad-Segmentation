@@ -1,6 +1,6 @@
 # Byte Force: Precision Perception in Unstructured Terrains
 
-### Offroad Autonomy Segmentation Challenge | GHR 2.0 Hackathon
+### Offroad Autonomy Segmentation Challenge | GHR 2.0 Hackathon.
 
 
 
